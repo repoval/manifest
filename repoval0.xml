@@ -6,7 +6,7 @@
 
         <!-- OP-TEE gits -->
         <project path="example0"         name="repoval/example0.git" />
-        <project path="example1"         name="repoval/example1.git" />
+        <project path="example1"         name="repoval/example1.git" revisiion="80f39344f9f8344169bbc2051acc34ffb1b52fb5" />
         <project path="build"            name="repoval/build.git">
                 <linkfile src="plat000.mk" dest="build/Makefile" />
         </project>
